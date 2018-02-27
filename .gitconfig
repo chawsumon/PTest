@@ -1,0 +1,6 @@
+[user]
+	name = chawsumon
+	email = mon.chawsu@gmail.com
+[core]
+	autocrlf = false
+	safecrlf = true
